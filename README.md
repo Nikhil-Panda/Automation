@@ -7,3 +7,5 @@
 <h2>3. Multi Clipboard</h2>
 <p>Unlike General clipboards where data gets over written every time you copy something new,</n>
 The Multi Clipboard can be used to keep multiple Copies at a time</p>
+<h2>4. Weather App</h2>
+<p>Get the info about the current weather and temparature of a city, using the openweathermap API</p>
