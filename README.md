@@ -9,3 +9,5 @@
 The Multi Clipboard can be used to keep multiple Copies at a time</p>
 <h2>4. Weather App</h2>
 <p>Get the info about the current weather and temparature of a city, using the openweathermap API</p>
+<h2>5. Email from Python</h2>
+<p>sending an Email from python using the smtplin and ssl libraries</p>
